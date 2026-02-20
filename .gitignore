@@ -1,0 +1,5 @@
+.env
+openai-env/
+.claude/
+__pycache__/
+*.pyc
